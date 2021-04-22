@@ -24,18 +24,22 @@ at the install scripts before you run them unchecked.
 |Project|Type of Software|Lang.|
 |---|---|---|
 |[Bashhub](https://www.bashhub.com/)|Interactive Shell|Python|
+|[Google Cloud](https://cloud.google.com/)|Cloud Service|?|
 |[Homebrew](https://brew.sh/)|macOS Package Manager|Ruby|
+|[NixOS](https://nixos.org/)|Reproducible builds and deployments|?|
 |[nvm](https://github.com/nvm-sh/nvm)|Node Version Manager|Shell|
 |[Oh My ZSH](https://ohmyz.sh/)|Z-Shell Framework|Shell|
 |[Owncast](https://owncast.online/)|Self Hosted Video Streaming|JavaScript|
+|[Pi-hole](https://pi-hole.net/)|Network Blocker|Shell|
 |[Rust](https://www.rust-lang.org/)|Program Language|Rust|
+|[SpaceVim](https://spacevim.org/)|A community-driven vim distribution|Vim script|
 |[...](http://example.com/)|Your contribution|...|
 
 ## Commit
 
 You know about more of this Projects? Pls. commit projects you know fit in this
-list. You find all on the [issue list](https://github.com/KubikPixel/pipeinstall/issues)
-, feel free to commmit your knowledgee
+list. You find all on the [issue list](https://github.com/KubikPixel/pipeinstall/issues),
+feel free to commmit your knowledgee
 
 ## License
 
