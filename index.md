@@ -24,6 +24,7 @@ at the install scripts before you run them unchecked.
 |Project|Type of Software|Lang.|
 |---|---|---|
 |[Bashhub](https://www.bashhub.com/)|Interactive Shell|Python|
+|[Homebrew](https://brew.sh/)|macOS Package Manager|Ruby|
 |[nvm](https://github.com/nvm-sh/nvm)|Node Version Manager|Shell|
 |[Oh My ZSH](https://ohmyz.sh/)|Z-Shell Framework|Shell|
 |[Owncast](https://owncast.online/)|Self Hosted Video Streaming|JavaScript|
