@@ -28,6 +28,8 @@ at the install scripts before you run them unchecked.
 |[Homebrew](https://brew.sh/)|macOS Package Manager|Ruby|
 |[NixOS](https://nixos.org/)|Reproducible builds and deployments|?|
 |[nvm](https://github.com/nvm-sh/nvm)|Node Version Manager|Shell|
+|[micro](https://micro-editor.github.io/)|Text Editor|Go|
+|[Oh My Fish](https://github.com/oh-my-fish/oh-my-fish)|Fish Shell Framework|Shell|
 |[Oh My ZSH](https://ohmyz.sh/)|Z-Shell Framework|Shell|
 |[Owncast](https://owncast.online/)|Self Hosted Video Streaming|JavaScript|
 |[Pi-hole](https://pi-hole.net/)|Network Blocker|Shell|
