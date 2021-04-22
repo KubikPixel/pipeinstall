@@ -22,5 +22,5 @@ list. You find all on the [issue list](https://github.com/KubikPixel/pipeinstall
 
 ## License
 
-This project is under the MIT license, see for more th [LICENSE](LICENSE) file.
-
+This project is under the MIT license, see for more th [LICENSE](https://github.com/KubikPixel/pipeinstall/blob/main/LICENSE)
+file.
