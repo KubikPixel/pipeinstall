@@ -24,7 +24,7 @@ at the install scripts before you run them unchecked.
 |Project|Type of Software|Lang.|
 |---|---|---|
 |[Bashhub](https://www.bashhub.com/)|Interactive Shell|Python|
-|[Google Cloud](https://cloud.google.com/)|Cloud Service|?|
+|[Google Cloud SDK](https://cloud.google.com/)|Cloud Service SDK|?|
 |[Homebrew](https://brew.sh/)|macOS Package Manager|Ruby|
 |[NixOS](https://nixos.org/)|Reproducible builds and deployments|?|
 |[nvm](https://github.com/nvm-sh/nvm)|Node Version Manager|Shell|
