@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Pipe Install
 
-You can use the [editor on GitHub](https://github.com/KubikPixel/pipeinstall/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A list of projects there how use shell script pipe and [cURL](https://curl.se/)
+or [Wget](https://www.gnu.org/software/wget/) to install it self.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> Initial toot: [Mastodon](https://chaos.social/@kubikpixel/106107773137340086)
 
-### Markdown
+## Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+|Project|Type of Software|Lang.|
+|---|---|---|
+|[Bashhub](https://www.bashhub.com/)|Interactive Shell|Python|
+|[Owncast](https://owncast.online/)|Self Hosted Video Streaming|JavaScript|
+|[Rust](https://www.rust-lang.org/)|Program Language|Rust|
+|[...](http://example.com/)|Your contribution|...|
 
-```markdown
-Syntax highlighted code block
+## Commit
 
-# Header 1
-## Header 2
-### Header 3
+You know about more of this Projects? Pls. commit projects you know fit in this
+list. You find all on the [issue list](https://github.com/KubikPixel/pipeinstall/issues)
+, feel free to commmit your knowledgee
 
-- Bulleted
-- List
+## License
 
-1. Numbered
-2. List
+This project is under the MIT license, see for more th [LICENSE](LICENSE) file.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KubikPixel/pipeinstall/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
