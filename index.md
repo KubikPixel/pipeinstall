@@ -25,6 +25,7 @@ at the install scripts before you run them unchecked.
 |---|---|---|
 |[Bashhub](https://www.bashhub.com/)|Interactive Shell|Python|
 |[nvm](https://github.com/nvm-sh/nvm)|Node Version Manager|Shell|
+|[Oh My ZSH](https://ohmyz.sh/)|Z-Shell Framework|Shell|
 |[Owncast](https://owncast.online/)|Self Hosted Video Streaming|JavaScript|
 |[Rust](https://www.rust-lang.org/)|Program Language|Rust|
 |[...](http://example.com/)|Your contribution|...|
