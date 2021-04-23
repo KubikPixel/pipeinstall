@@ -1,7 +1,7 @@
 # Pipe Install
 
 A list of projects that use a shell pipe and [cURL](https://curl.se/) or
-[Wget](https://www.gnu.org/software/wget/)to install themselves
+[Wget](https://www.gnu.org/software/wget/) to install themselves
 
 > Initial toot: [Mastodon](https://chaos.social/@kubikpixel/106107773137340086)
 
@@ -40,7 +40,10 @@ at the install scripts before you run them unchecked.
 |[Rust](https://www.rust-lang.org/)|Program Language|Rust|
 |[SpaceVim](https://spacevim.org/)|A community-driven vim distribution|Vim script|
 |[SDKMAN](https://sdkman.io/)|SDK Manager|Shell|
+|[|tmpmail](https://github.com/sdushantha/tmpmail)|temporary email in terminal|Shell|
+|[termv](https://github.com/Roshan-R/termv)|iptv player in terminal|Shell|
 |[vimiv](https://github.com/thameera/vimv)|Batch-rename files Vim like|Shell|
+|[ytfzf](https://github.com/pystardust/ytfzf)|Find and watch YouTube videos|Shell|
 |[...](http://example.com/)|Your contribution|...|
 
 ## Commit
