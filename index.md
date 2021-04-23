@@ -1,7 +1,7 @@
 # Pipe Install
 
-A list of projects there how use shell script pipe and [cURL](https://curl.se/)
-or [Wget](https://www.gnu.org/software/wget/) to install it self.
+A list of projects that use a shell pipe and [cURL](https://curl.se/) or
+[Wget](https://www.gnu.org/software/wget/)to install themselves
 
 > Initial toot: [Mastodon](https://chaos.social/@kubikpixel/106107773137340086)
 
@@ -53,3 +53,7 @@ feel free to commmit your knowledge.
 
 This project is under the MIT license, see for more th [LICENSE](https://github.com/KubikPixel/pipeinstall/blob/main/LICENSE)
 file.
+
+---
+
+Curated by the community and [KubikPixel](https://thunix.net/~kubikpixel/)
