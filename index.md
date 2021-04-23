@@ -39,6 +39,7 @@ at the install scripts before you run them unchecked.
 |[Pi-hole](https://pi-hole.net/)|Network Blocker|Shell|
 |[Rust](https://www.rust-lang.org/)|Program Language|Rust|
 |[SpaceVim](https://spacevim.org/)|A community-driven vim distribution|Vim script|
+|[SDKMAN](https://sdkman.io/)|SDK Manager|Shell|
 |[vimiv](https://github.com/thameera/vimv)|Batch-rename files Vim like|Shell|
 |[...](http://example.com/)|Your contribution|...|
 
