@@ -24,10 +24,14 @@ at the install scripts before you run them unchecked.
 |Project|Type of Software|Lang.|
 |---|---|---|
 |[Bashhub](https://www.bashhub.com/)|Interactive Shell|Python|
+|[basher](https://github.com/basherpm/basher)|Shell Package Manager|Shell|
+|[bpkg](http://www.bpkg.sh/)|Bash Package Manager|Shell|
+|[Calibre](https://calibre-ebook.com/)|E-Book Management|Python|
 |[Google Cloud SDK](https://cloud.google.com/)|Cloud Service SDK|?|
 |[Homebrew](https://brew.sh/)|macOS Package Manager|Ruby|
-|[NixOS](https://nixos.org/)|Reproducible builds and deployments|?|
+|[Nix](https://nixos.org/)|Reproducible builds and deployments|Crystal|
 |[nvm](https://github.com/nvm-sh/nvm)|Node Version Manager|Shell|
+|[Mail-in-a-Box](https://mailinabox.email/)|Email Server|Python|
 |[micro](https://micro-editor.github.io/)|Text Editor|Go|
 |[Oh My Fish](https://github.com/oh-my-fish/oh-my-fish)|Fish Shell Framework|Shell|
 |[Oh My ZSH](https://ohmyz.sh/)|Z-Shell Framework|Shell|
@@ -35,13 +39,14 @@ at the install scripts before you run them unchecked.
 |[Pi-hole](https://pi-hole.net/)|Network Blocker|Shell|
 |[Rust](https://www.rust-lang.org/)|Program Language|Rust|
 |[SpaceVim](https://spacevim.org/)|A community-driven vim distribution|Vim script|
+|[vimiv](https://github.com/thameera/vimv)|Batch-rename files Vim like|Shell|
 |[...](http://example.com/)|Your contribution|...|
 
 ## Commit
 
 You know about more of this Projects? Pls. commit projects you know fit in this
 list. You find all on the [issue list](https://github.com/KubikPixel/pipeinstall/issues),
-feel free to commmit your knowledgee
+feel free to commmit your knowledge.
 
 ## License
 
