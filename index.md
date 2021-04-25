@@ -38,6 +38,7 @@ at the install scripts before you run them unchecked.
 |[Owncast](https://owncast.online/)|Self Hosted Video Streaming|JavaScript|
 |[Pi-hole](https://pi-hole.net/)|Network Blocker|Shell|
 |[Rust](https://www.rust-lang.org/)|Program Language|Rust|
+|[Site.js](https://sitejs.org/)|Personall web tool|JavaScript|
 |[SpaceVim](https://spacevim.org/)|A community-driven vim distribution|Vim script|
 |[SDKMAN](https://sdkman.io/)|SDK Manager|Shell|
 |[tmpmail](https://github.com/sdushantha/tmpmail)|temporary email in terminal|Shell|
