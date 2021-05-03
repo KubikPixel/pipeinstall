@@ -24,15 +24,15 @@ at the install scripts before you run them unchecked.
 |Project|Type of Software|Lang.|
 |---|---|---|
 |[Bashhub](https://www.bashhub.com/)|Interactive Shell|Python|
-|[basher](https://github.com/basherpm/basher)|Shell Package Manager|Shell|
-|[bpkg](http://www.bpkg.sh/)|Bash Package Manager|Shell|
+|[Basher](https://github.com/basherpm/basher)|Shell Package Manager|Shell|
+|[Bpkg](http://www.bpkg.sh/)|Bash Package Manager|Shell|
 |[Calibre](https://calibre-ebook.com/)|E-Book Management|Python|
 |[Google Cloud SDK](https://cloud.google.com/)|Cloud Service SDK|?|
 |[Homebrew](https://brew.sh/)|macOS Package Manager|Ruby|
 |[Nix](https://nixos.org/)|Reproducible builds and deployments|Crystal|
-|[nvm](https://github.com/nvm-sh/nvm)|Node Version Manager|Shell|
+|[Nvm](https://github.com/nvm-sh/nvm)|Node Version Manager|Shell|
 |[Mail-in-a-Box](https://mailinabox.email/)|Email Server|Python|
-|[micro](https://micro-editor.github.io/)|Text Editor|Go|
+|[Micro](https://micro-editor.github.io/)|Text Editor|Go|
 |[Oh My Fish](https://github.com/oh-my-fish/oh-my-fish)|Fish Shell Framework|Shell|
 |[Oh My ZSH](https://ohmyz.sh/)|Z-Shell Framework|Shell|
 |[Owncast](https://owncast.online/)|Self Hosted Video Streaming|JavaScript|
@@ -41,10 +41,10 @@ at the install scripts before you run them unchecked.
 |[Site.js](https://sitejs.org/)|Personall web tool|JavaScript|
 |[SpaceVim](https://spacevim.org/)|A community-driven vim distribution|Vim script|
 |[SDKMAN](https://sdkman.io/)|SDK Manager|Shell|
-|[tmpmail](https://github.com/sdushantha/tmpmail)|temporary email in terminal|Shell|
-|[termv](https://github.com/Roshan-R/termv)|iptv player in terminal|Shell|
-|[vimiv](https://github.com/thameera/vimv)|Batch-rename files Vim like|Shell|
-|[ytfzf](https://github.com/pystardust/ytfzf)|Find and watch YouTube videos|Shell|
+|[Tmpmail](https://github.com/sdushantha/tmpmail)|temporary email in terminal|Shell|
+|[Termv](https://github.com/Roshan-R/termv)|iptv player in terminal|Shell|
+|[Vimv](https://github.com/thameera/vimv)|Batch-rename files Vim like|Shell|
+|[Ytfzf](https://github.com/pystardust/ytfzf)|Find and watch YouTube videos|Shell|
 |[...](http://example.com/)|Your contribution|...|
 
 ## Commit
