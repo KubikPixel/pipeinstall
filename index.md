@@ -41,6 +41,7 @@ at the install scripts before you run them unchecked.
 |[Site.js](https://sitejs.org/)|Personall web tool|JavaScript|
 |[SpaceVim](https://spacevim.org/)|A community-driven vim distribution|Vim script|
 |[SDKMAN](https://sdkman.io/)|SDK Manager|Shell|
+|[Starship](https://starship.rs/)|Cross Shell Prompt|Rust|
 |[tmpmail](https://github.com/sdushantha/tmpmail)|temporary email in terminal|Shell|
 |[termv](https://github.com/Roshan-R/termv)|iptv player in terminal|Shell|
 |[ugit](https://github.com/Bhupesh-V/ugit)|Git helper|Shell|
