@@ -29,6 +29,7 @@ at the install scripts before you run them unchecked.
 |[Calibre](https://calibre-ebook.com/)|E-Book Management|Python|
 |[Google Cloud SDK](https://cloud.google.com/)|Cloud Service SDK|?|
 |[Homebrew](https://brew.sh/)|macOS Package Manager|Ruby|
+|[Lektor](https://www.getlektor.com/)|static CMS|Python|
 |[Nix](https://nixos.org/)|Reproducible builds and deployments|Crystal|
 |[nvm](https://github.com/nvm-sh/nvm)|Node Version Manager|Shell|
 |[Mail-in-a-Box](https://mailinabox.email/)|Email Server|Python|
