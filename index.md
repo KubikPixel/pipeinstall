@@ -47,6 +47,7 @@ at the install scripts before you run them unchecked.
 |[termv](https://github.com/Roshan-R/termv)|iptv player in terminal|Shell|
 |[ugit](https://github.com/Bhupesh-V/ugit)|Git helper|Shell|
 |[vimiv](https://github.com/thameera/vimv)|Batch-rename files Vim like|Shell|
+|[volta](https://volta.sh/)|Tool Manager|JavaScript|
 |[ytfzf](https://github.com/pystardust/ytfzf)|Find and watch YouTube videos|Shell|
 |[...](http://example.com/)|Your contribution|...|
 
