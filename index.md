@@ -27,6 +27,7 @@ at the install scripts before you run them unchecked.
 |[basher](https://github.com/basherpm/basher)|Shell Package Manager|Shell|
 |[bpkg](http://www.bpkg.sh/)|Bash Package Manager|Shell|
 |[Calibre](https://calibre-ebook.com/)|E-Book Management|Python|
+|[Deno](https://deno.land/)|Runtime for JavaScript and TypeScript|Rust|
 |[Google Cloud SDK](https://cloud.google.com/)|Cloud Service SDK|?|
 |[Homebrew](https://brew.sh/)|macOS Package Manager|Ruby|
 |[Lektor](https://www.getlektor.com/)|static CMS|Python|
