@@ -50,6 +50,7 @@ at the install scripts before you run them unchecked.
 |[vimiv](https://github.com/thameera/vimv)|Batch-rename files Vim like|Shell|
 |[volta](https://volta.sh/)|Tool Manager|JavaScript|
 |[ytfzf](https://github.com/pystardust/ytfzf)|Find and watch YouTube videos|Shell|
+|[YunoHost](https://yunohost.org)|Selvehosting Repo|Debian|
 |[...](http://example.com/)|Your contribution|...|
 
 ## Commit
