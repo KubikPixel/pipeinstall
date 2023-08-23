@@ -30,6 +30,7 @@ at the install scripts before you run them unchecked.
 |[Deno](https://deno.land/)|Runtime for JavaScript and TypeScript|Rust|
 |[Google Cloud SDK](https://cloud.google.com/)|Cloud Service SDK|?|
 |[Homebrew](https://brew.sh/)|macOS Package Manager|Ruby|
+|[Krew](https://krew.sigs.k8s.io/docs/user-guide/setup/install/)|Kubernetes plugin manager|Go|
 |[Lektor](https://www.getlektor.com/)|static CMS|Python|
 |[Nix](https://nixos.org/)|Reproducible builds and deployments|Crystal|
 |[nvm](https://github.com/nvm-sh/nvm)|Node Version Manager|Shell|
